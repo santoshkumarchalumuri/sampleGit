@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//check the given  umber is prime number or not
 public class primeNumber {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
