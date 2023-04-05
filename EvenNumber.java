@@ -1,6 +1,6 @@
 import javax.xml.transform.stream.StreamSource;
 import java.util.Scanner;
-
+//check the given number is even or odd
 public class EvenNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
