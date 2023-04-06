@@ -6,7 +6,6 @@ public class SettersAndGetters {
 
     public SettersAndGetters() {
     }
-
     public int getId() {
         return id;
     }
