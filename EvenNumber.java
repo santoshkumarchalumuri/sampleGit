@@ -1,6 +1,9 @@
 import javax.xml.transform.stream.StreamSource;
 import java.util.Scanner;
+
+//even number
 //changes are done in 6/4/23
+
 public class EvenNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
