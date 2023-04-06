@@ -8,6 +8,7 @@ public class Below100PrimeNumbers {
                     break;
                 }
             }
+
             if(count==0)
                 System.out.println(number);
         }
