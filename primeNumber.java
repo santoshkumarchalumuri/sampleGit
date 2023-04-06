@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//changes are done in 6/4/23
 public class primeNumber {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
